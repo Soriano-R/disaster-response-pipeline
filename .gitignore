@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Machine Learning model
+*.pkl
+
+# Database
+*.db
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS specific
+.DS_Store

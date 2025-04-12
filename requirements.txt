@@ -1,0 +1,20 @@
+# Required packages for Disaster Response Pipeline project
+# Install using: pip install -r requirements.txt
+# Or with conda: conda install --file requirements.txt
+
+# Core data processing and analysis libraries
+numpy
+pandas
+sqlalchemy
+
+# Natural language processing
+nltk
+
+# Machine learning
+scikit-learn
+joblib  # Required for model serialization (replaces sklearn.externals.joblib)
+
+# Web application and visualization
+flask
+plotly
+pickle-mixin
