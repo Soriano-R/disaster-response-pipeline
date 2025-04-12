@@ -9,7 +9,8 @@ The system employs Natural Language Processing (NLP) techniques and supervised l
 ![Disaster Response Application Interface](resources/Disaster_Response_Application_Interface.png)
 
 ![Disaster Response Application Interface](resources/Disaster_Response_Classification_Result.png)
-*Example classification of a flood-related message. The model correctly identifies multiple relevant categories including Related, Request, Aid Related, Water, Food, and Direct Report (not visible in screenshot).*
+
+<sub>*Example classification of a flood-related message. The model correctly identifies multiple relevant categories including Related, Request, Aid Related, Water, Food, and Direct Report (not visible in screenshot).*</sub>
 
 ## Technical Architecture
 
