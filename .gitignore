@@ -21,3 +21,11 @@ env/
 
 # macOS specific
 .DS_Store
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# local virtual-envs
+.venv/
+.venb/
+venv/
