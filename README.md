@@ -73,7 +73,7 @@ This interface bridges the gap between advanced machine learning algorithms and 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/disaster-response-pipeline.git
+   git clone https://github.com/Soriano-R/disaster-response-pipeline.git
    cd disaster-response-pipeline
    ```
 
