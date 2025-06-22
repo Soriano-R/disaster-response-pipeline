@@ -153,4 +153,12 @@ disaster-response-pipeline/
 ├── screenshots/                # Application screenshots
 ├── README.md                   # Project documentation
 └── requirements.txt            # Dependencies
+│
+├── resources/
+    ├── Disaster_Response_Application_Interface.png 	#screenshot
+    ├── Disaster_Response_Classification_Result.png     #screenshot
+    ├── ETL_Pipeline_Preparation.html
+    └── ETL_Pipeline_Preparation.ipynb
+    ├── ML_Pipeline_Preparation.html
+    └── ML_Pipeline_Preparation.ipynb    
 ```
